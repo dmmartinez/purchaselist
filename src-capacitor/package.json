@@ -1,0 +1,13 @@
+{
+  "name": "purchaselist",
+  "version": "0.0.1",
+  "description": "Purchase Lists for family & demo",
+  "author": "Daniel Martínez <dmm@paradisosistemas.es>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "2.5.0",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0",
+    "@capacitor/ios": "2.5.0"
+  }
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Martínez Orjuela\'s Purchase Lists</string>
+    <string name="title_activity_main">Martínez Orjuela\'s Purchase Lists</string>
+    <string name="package_name">org.capacitor.quasar.app.dmmartinez.purchaselist</string>
+    <string name="custom_url_scheme">org.capacitor.quasar.app.dmmartinez.purchaselist</string>
+</resources>
